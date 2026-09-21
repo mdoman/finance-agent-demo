@@ -2,6 +2,8 @@
 
 A small [Google ADK](https://google.github.io/adk-docs/) agent that answers stock market questions using live Yahoo Finance data. Built as a class demo.
 
+Built with Claude Code in seconds. Absolutely no warranty.
+
 ## What it can do
 
 - Current price and daily change
